@@ -1,0 +1,29 @@
+/* customStyles.css */
+.bg-primary {
+    background-color: #f0f0f0; /* Adjust according to your design */
+  }
+  
+  .bg-hero {
+    background-image: url('../path/to/your/background-image.jpg'); /* Adjust according to your design */
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .bg-card {
+    background-color: #ddd2d2fd; /* Adjust according to your design */
+  }
+  
+  .padding-x {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .max-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .text-coral-red {
+    color: #ff4c4c; /* Adjust according to your design */
+  }
+  
